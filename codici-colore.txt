@@ -1,0 +1,10 @@
+#FFFF00/*yellow logo*/
+#585381/*light purple*/
+#06002B/*dark purple*/
+#2d2a54/*primary purple*/
+#9E0000/*dark-red*/
+#333333/*dark-gray*/
+
+#0000FF (fill mente con opacity 0.44)
+
+#1EB5D8/*color cc*/
